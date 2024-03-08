@@ -1,0 +1,26 @@
+{
+  "name": "sury-dailynote",
+  "version": "1.0.0",
+  "description": "A simple CLI application for keeping a daily journal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryawel37/sury-dailynote"
+    },
+  "homepage": "https://twitter.com/SeltzLise",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "moment": "^2.29.1",
+    "sury-dailynote": "^1.0.0"
+  },
+  "author": "Sury",
+  "license": "ISC"
+}
+
+
+
+
+
